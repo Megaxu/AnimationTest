@@ -5,6 +5,13 @@
     margin: 0 auto;
 }
 
+h1 {
+    color: #6d5383;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
 #container {
     width: 700px;
     height: 700px;
@@ -12,6 +19,7 @@
     border: 3px solid #6d5383;
     position: relative;
     margin: auto auto;
+    border-radius: 10px;
 }
 
 #box {
